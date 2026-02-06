@@ -5,3 +5,5 @@ The code includes:
 Sementic HTML tags, SEO meta tags, OG tags and a Favicon.
 
 Visit my webpage: https://as1ph3r.github.io/professional-cv/
+
+projet URL: https://roadmap.sh/projects/single-page-cv
